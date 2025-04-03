@@ -56,7 +56,7 @@ Before running the project, ensure you have the following installed:
 1. Clone the Repository
 
    ```bash
-   git clone https://github.com/your-username/workout-tracker.git
+   git clone https://github.com/Egnoel/workout_tracker_API
    ```
 
    ```bash
